@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "fitnessapp-a4f7e",
+  "private_key_id": "dd258bede0021a6f765955c8a129abc5cf0e2dea",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC2K3d9LDI+fIo+\ncRsuqc5FwWUM7HptStoRIOArQFbaOzVWuWse6dBepDbm/aAgi+GRYVmlpUf2X9KL\nWiOCcj6IMktqMGpNgyqWOsoEQ/Dc4lBUiRn2rdo7Dtu5dE9E0sHqP16b50xSOxcd\nUakPuvpMSxk4wAJ8s66wWg1337fTW9o7457z6LrUk1DQ1hUvp6RNCJeA5ZBuOZYR\nRlML55K7h95FFyLPXJOvJ4y0wgdJo9TtDehGLtgTWTPaD+qOYcX/+B7Y+aml2YW6\n66qahwVOe8o6MSHie1dInPsBNCMj3AFzUsT6XoV+tlIoAfHSammrDjHwkT0MCex6\nF/c7P47TAgMBAAECggEATkgmfE06OBzngUa0ghxpLhOZu3CBeabBR7wDaMKor/Xi\niWZ7cFjUeF8D0sZpgaLqp0EYt3RrlKV/we9VtBAo6/kE7Fhqze1QJyeTOTsC7cB4\n+aLC2/zAe0F6zVp8V9xjhSh/HOrLosiOucQmLMLSHWfmKjtktja2mkTQZdNm2LV1\n1jtQlG3fpnICCpFiuB1iX8mSZWurCUiWnlG7n9Ax/YatMPhTqkorc9YCy8cugUiW\nBCBZQKFUf6qYLE8x2mQI1OLjoG9OBtI1PvALjSaImnENAAkvjOWWO11M2p7UpwDq\nbCtturhuElSYGTNzxMkdVKnRNNavUdngVp68uWjtTQKBgQDbYulmocaS2NxrrZUl\nNhHCtGt7P7o+r0H4fsIGeg5bh/TKKFbp2HuEjS766UEZ6Y8brXm3/acjRi5dgmiY\nmrSNcUK5miPP+BAxdR1C66nyld1rmOvL6cHIeG/XSCRxjwCzoNfcvO2o92g0N2jv\nhQPZ92wWDarXKgbDLE3Z9GJkZwKBgQDUkoJzVgrnKdO7yUDTYcxKRrU04TV+/zcH\nae0hl19UB1mDdc5yghmf5tAbt2fWA5oawYXp6G7vPwwa58YZBQ//Gqvh8MZUTZ2W\nRktjtFEddPEA9dDyBB0NaoDUgzER7vrXwAT7ci9KuI7wafa27yRSGZ9yW+rh6+jh\nUJkAgDGetQKBgEzbDucsf3NMU5PJYLmDgp9SM2EfBzEUlqjmRzSbp9H7BA+aKDCN\n7V+XUkEGXA8m2kKY+E4zp0zdNjr+B4SGlgADEJwS2r7tqUaaP6EFDCl2xPX/wYNT\nJdcEEjI6DMJXlahYDac/7IZH/hJk4vceAyZl3lCvgw0TpQDU0YUsbxe7AoGBAL4O\nPAoo3NivYfqcxpP39bJXI76iuLTSNH4xa+3DrFyxsYvC8ZEZ1xVLRbfyNCl50Pep\nHTT0NvM7WHRZ05kdGJ9KVnFNV9WaC5KHSPJdDsUagDwOjAFGQj9zgLoAjgfttmLd\n8NZr0fKprksvQoFusPeipxeVLR1PUkjZSeLTuwmdAoGBAKfDJl4kVw9tojx/fVzj\nn8CvquAwLLEHC6OcP0tnnTMhzbv1A6enyMDqrUtv50mx+XRB1QEOKn4oI8EhqZQJ\npoNLVOYKEySjROBF89AKhz1ZJS1DJzIBfYFv7b4ptJJsQAfwWLEsYyx+sv4kXS2k\nNhjcYb719sxeXUqA1NHDNIGc\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow-rthagv@fitnessapp-a4f7e.iam.gserviceaccount.com",
+  "client_id": "111126449346773026400",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-rthagv%40fitnessapp-a4f7e.iam.gserviceaccount.com"
+}
