@@ -11,4 +11,4 @@
  7. email and password validation
 
 # UI
-1. https://github.com/sohedul/fitness_app/blob/master/assets/exercise_assets/exercise_images/Junu.gif
+1.
