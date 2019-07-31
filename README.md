@@ -9,3 +9,6 @@
  5. upload image in firebase
  6. login/ registration with firebase auth
  7. email and password validation
+
+# UI
+1. https://github.com/sohedul/fitness_app/blob/master/assets/exercise_assets/exercise_images/Junu.gif
