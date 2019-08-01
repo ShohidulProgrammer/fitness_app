@@ -11,4 +11,4 @@
  7. email and password validation
  
 # UI
-1.
+1. <img src="https://github.com/sohedul/fitness_app/blob/master/ui_preview/bmiCategory.gif">
