@@ -16,12 +16,14 @@
 <img src="https://github.com/sohedul/fitness_app/blob/master/ui_preview/bottomTab.gif" alt="Daily Routine">
 <figcaption>Fig. - bottom & tom Tab bar.</figcaption>
 </figure>
+<div height="5px"> </div>
+ 
 
 <figure>
 <img src="https://github.com/sohedul/fitness_app/blob/master/ui_preview/diet.gif" alt="routines">
 <figcaption>Fig. - card list view .</figcaption>
 </figure>
-
+<div height="5px"> </div>
 <figure>
 <img src="https://github.com/sohedul/fitness_app/blob/master/ui_preview/dietDetails.gif" alt="Routine Details">
 <figcaption>Fig. - Routine Details.</figcaption>
