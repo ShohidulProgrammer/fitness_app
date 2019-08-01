@@ -12,7 +12,7 @@
  
 # UI
 
-<figure>
+<figure margin:10px>
 <img src="https://github.com/sohedul/fitness_app/blob/master/ui_preview/bottomTab.gif" alt="Daily Routine">
 <figcaption>Fig. - bottom & tom Tab bar.</figcaption>
 </figure>
