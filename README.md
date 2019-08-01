@@ -107,16 +107,7 @@
 </br>
 </br>
 <hr>
- 
-<figure>
-<img src="https://github.com/sohedul/fitness_app/blob/master/ui_preview/bot.gif" alt="chat bot">
-<figcaption>Fig. - chat bot.</figcaption>
-</figure>
 
-</br>
-</br>
-<hr>
- 
 <figure>
 <img src="https://github.com/sohedul/fitness_app/blob/master/ui_preview/gloceryWishList.gif" alt="glocery profile menu">
 <figcaption>Fig. - Glocery Profile Menu.</figcaption>
@@ -126,3 +117,4 @@
 </br>
 <hr>
  
+
