@@ -18,13 +18,18 @@
 </figure>
 </br>
 </br>
+<hr>
  
 
 <figure>
 <img src="https://github.com/sohedul/fitness_app/blob/master/ui_preview/diet.gif" alt="routines">
 <figcaption>Fig. - card list view .</figcaption>
 </figure>
-<div height="5px"> </div>
+</br>
+</br>
+<hr>
+ 
+
 <figure>
 <img src="https://github.com/sohedul/fitness_app/blob/master/ui_preview/dietDetails.gif" alt="Routine Details">
 <figcaption>Fig. - Routine Details.</figcaption>
